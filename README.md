@@ -39,21 +39,17 @@ To support fair comparison across different property sizes, a custom **Rent per 
 
 ## Dashboard Features
 
-- KPI Cards
-  - Average Rent
-  - Average Rent per Bedroom
-  - Total Listings
+The project includes two interactive Power BI dashboards:
 
-- Interactive Filters
-  - State
-  - Property Type
-  - Bedroom Count
+### 1. Executive Overview
 
-- Visualisations
-  - Average Rent by State
-  - Average Rent by Property Type
-  - Average Rent by Bedroom Count
-  - Average Rent per Bedroom
+Designed to provide a high-level summary of Australia's rental market, including state-level pricing comparisons, property type analysis, bedroom-based pricing trends, and identification of premium rental locations.
+
+### 2. Rental Value & Affordability Analysis
+
+Designed to evaluate rental value using rent-per-bedroom metrics, highlighting affordability differences across states, property types, bedroom counts, and suburbs.
+
+Both dashboards support interactive filtering by state, property type, and bedroom count, allowing users to explore market trends from multiple perspectives.
 
 ---
 
@@ -70,12 +66,23 @@ To support fair comparison across different property sizes, a custom **Rent per 
 
 ## Repository Contents
 
-- Power BI Dashboard (.pbix)
-- Excel Analysis Workbook (.xlsx)
-- Dashboard Screenshots
-- Key Findings Report
-
+- Dashboard.pbix (PowerBI File)
+- australian_rental_market_2026.xlsx (Dataset)
+- Key_Findings.pdf 
+- Power BI Dashboard 1.png (Dashboard Overview)
+- Power BI Dashboard 2.png (Dashboard Value Analysis)
+  
 ---
+
+## Data Source
+
+The dataset used in this project was obtained from:
+
+Australian Rental Market Data 2026
+
+https://www.kaggle.com/datasets/kanchana1990/australian-rental-market-data-2026/data
+
+The dataset contains Australian rental property listings collected in 2026 and was used for educational and portfolio purposes.
 
 ## Author
 
